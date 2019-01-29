@@ -1,0 +1,1 @@
+<?php echo $this->requestAction(array('controller' => 'lends', 'action' => 'overview'), array('return')); ?>

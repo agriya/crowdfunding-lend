@@ -1,0 +1,1 @@
+<?php echo $this->requestAction(array('controller' => 'credit_scores', 'action' => 'credit_summary'), array('return')); ?>

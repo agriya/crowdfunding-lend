@@ -1,0 +1,14 @@
+{
+	"name" : "Lend",
+	"description" : "By enabling this, the users can lend funds on projects. i.e., the amount will captured or refunded according to the funding method selected by the project owner, after the project reached end date. Later, the amount borrowed is returned with an interest.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" : "true",
+	"parent": "1.Modules.Children",
+	"icon" : "lend-s",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "s180",
+	"module_hash": "4b66d549f6f1d99d46b7bb5db04c85ac"
+}
